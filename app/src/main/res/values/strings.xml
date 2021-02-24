@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MiPrimerAplicacion</string>
+    <string name="activityPrincipal">Actividad Home</string>
+    <string name="activitySecundaria">Actividad Secundaria</string>
+    <string name="text_intent">Intent explicito</string>
+    <string name="textToast">Toast</string>
+    <string name="textSnackBar">Snack Bar</string>
+    <string name="textDialog">Dialog</string>
+    <string name="text_url">url</string>
+    <string name="text_mapa">mapa</string>
+    <string name="text_llamada">llamada</string>
+    <string name="text_email">email</string>
+</resources>
